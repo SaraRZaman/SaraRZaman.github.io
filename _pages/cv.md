@@ -9,56 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Abbreviated CV below
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor of Science in Agriculture and Forestry, University of Helsinki (2025)
+* M.Sc. in Agricultural, Environmental and Resource Economics, University of Helsinki (2020)
+* B.A. in Sustainability Studies, University of Texas at Austin (2018)
 
-Work experience
+Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2025-2026: Technical assistant, postdoctoral researcher
+  * [RECONNECT Project](https://reconnect-research.eu/)
+       
+* 2021-2025: Doctoral Researcher
+  * University of Helsinki
+ 
+* 2019-2020: Master's student
+  * [ENVISION Project](https://inclusive-conservation.org/)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
