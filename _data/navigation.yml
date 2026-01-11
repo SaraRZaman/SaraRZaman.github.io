@@ -12,7 +12,10 @@ main:
     url: https://scholar.google.com/citations?user=PaVI0hkAAAAJ&hl=en&oi=ao
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+    
+  - title: "Other writings"
+    url: /writings/
 
 #  - title: "Teaching"
 #    url: /teaching/    
