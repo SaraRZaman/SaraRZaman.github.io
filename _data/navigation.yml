@@ -11,20 +11,20 @@ main:
   - title: "Academic Publications"
     url: https://scholar.google.com/citations?user=PaVI0hkAAAAJ&hl=en&oi=ao
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Essays and Media"
+    url: /essaysmedia/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+ #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
