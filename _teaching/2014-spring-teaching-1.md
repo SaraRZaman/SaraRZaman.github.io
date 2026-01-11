@@ -4,7 +4,7 @@ collection: teaching
 type: "Master's course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Agriculture and Forestry, University of Helsinki"
-date: 2020-2025
+date: 2025-09-01
 location: "Helsinki, FI"
 ---
 
