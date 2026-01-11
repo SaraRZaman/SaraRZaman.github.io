@@ -5,9 +5,9 @@ var addressPoints = [
     3.8595132
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Shifting values, knowledge systems and agency in institutions, education and policy<br />CzechGlobe; Prague, Czech Republic",
+    50.0874654,
+    14.4212535
   ],
   [
     "Searching for the Soul of the City<br />STOA Cultural Center; Helsinki, FI",
