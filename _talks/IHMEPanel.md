@@ -8,4 +8,4 @@ date: 2023-05-27
 location: "Helsinki, FI"
 ---
 
-
+[Recording can be found here](https://www.youtube.com/watch?v=12reRpoJjDY)
