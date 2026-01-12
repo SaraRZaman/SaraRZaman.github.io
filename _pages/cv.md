@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ Abbreviated CV below
 
 Education
 ======
-* Doctor of Science in Agriculture and Forestry, University of Helsinki (2025)
+* PhD in Interdisciplinary Sustainability Science, University of Helsinki (2025)
 * M.Sc. in Agricultural, Environmental and Resource Economics, University of Helsinki (2020)
 * B.A. in Sustainability Studies, University of Texas at Austin (2018)
 
