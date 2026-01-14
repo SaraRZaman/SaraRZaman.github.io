@@ -14,7 +14,8 @@ Abbreviated CV below
 Education
 ======
 * PhD in Interdisciplinary Sustainability Science, University of Helsinki (2025)
-* M.Sc. in Agricultural, Environmental and Resource Economics, University of Helsinki (2020)
+  * [Attentiveness to entanglements: sustainability research methods and the smart city](https://helda.helsinki.fi/server/api/core/bitstreams/57055217-8398-4fae-83b1-fb1fd41041a7/content)
+* M.Sc. in Ecological Economics, University of Helsinki (2020)
 * B.A. in Sustainability Studies, University of Texas at Austin (2018)
 
 Research
