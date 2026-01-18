@@ -26,7 +26,7 @@ For professional and general audiences
 
 * Zaman, Sara. “Stories that separate, stories that bind.” IHME Helsinki. [Published online](https://ihmehelsinki.fi/en/commissioned-texts/stories-that-separate-stories-that-bind/) and commissioned for Finnish translation in [Niin & Näin (nro 120, kevät 1/2024)](https://netn.fi/issue/niin-nain-1-24/)
 
-*"Our skins are marked by a culture of individualism and self-satisfaction, certain stories that atomize us from ourselves, and one another. While we may not always notice these stories, some people are adept at pointing them out to us."*
+> "Our skins are marked by a culture of individualism and self-satisfaction, certain stories that atomize us from ourselves, and one another. While we may not always notice these stories, some people are adept at pointing them out to us."*
 
 
 
