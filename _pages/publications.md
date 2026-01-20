@@ -11,8 +11,7 @@ Selected list of publications.
 
 My full academic publication list can be found on [Google Scholar.](https://scholar.google.com/citations?user=PaVI0hkAAAAJ&hl=en&oi=ao)
 
-Featured
-======
+<summary>Featured</summary>
 
 Peer-reviewed
 ======
