@@ -11,14 +11,21 @@ Selected list of publications.
 
 My full academic publication list can be found on [Google Scholar.](https://scholar.google.com/citations?user=PaVI0hkAAAAJ&hl=en&oi=ao)
 
+<details>
+
 <summary>Featured</summary>
 
-Peer-reviewed
-======
+<details>
+
+<details>
+
+<summary>Peer-reviewed</summary>
+
 **Zaman, Sara**, Suvielise Nurmi, and Christopher M. Raymond. [“Terrains of care in the smart city: sensemaking by creative communities of practice.”](https://doi.org/10.1186/s42854-024-00068-0) *Urban Transformations* 6, no. 1 (2024): 11.
 
 **Zaman, Sara**, and Corinna Hertweck. ["Methods for uncovering discourses that shape the urban imaginary in Helsinki's smart city.”](https://doi.org/10.3389/frsc.2022.796469) *Frontiers in Sustainable Cities* 4 (2022): 796469.
 
+<details>
 
 For professional and general audiences
 ======
