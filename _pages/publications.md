@@ -15,7 +15,10 @@ Zaman, Sara, Suvielise Nurmi, and Christopher M. Raymond. [“Terrains of care i
 
 Zaman, Sara, and Corinna Hertweck. ["Methods for uncovering discourses that shape the urban imaginary in Helsinki's smart city.”](https://doi.org/10.3389/frsc.2022.796469) *Frontiers in Sustainable Cities* 4 (2022): 796469.
 
-**For professional and general audiences**
+**For policymakers**
+Sara Zaman, Rory Taylor, Viola Hakkarainen, Christopher Raymond, Romina Martin, Erik Andersson, Nicole Vikatmaa. ["Cross-sectoral collaboration for biodiversity conservation in Sweden: Challenges and opportunities."](https://doi.org/10.5281/zenodo.18301530) *RECONNECT policy brief* (2026) 
+
+**For general audiences**
 
 Zaman, Sara. “Strategizing for Caring, Smart, Sustainable Cities.” Urbaria Summaries Series. (2025)
 
